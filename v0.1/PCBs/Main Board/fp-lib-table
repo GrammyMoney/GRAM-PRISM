@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "1999")(type "KiCad")(uri "/Users/quark/Documents/GitHub/GRAM-x-PRISM/v0.1/PCBs/qw-footprints/1999")(options "")(descr ""))
+  (lib (name "qw-logo")(type "KiCad")(uri "/Users/quark/Documents/GitHub/GRAM-x-PRISM/v0.1/PCBs/qw-footprints/qw-logo")(options "")(descr ""))
+)
