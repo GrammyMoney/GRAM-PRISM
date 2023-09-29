@@ -546,7 +546,7 @@
     )
     (pin "1" (uuid bf6f3c88-a537-42f3-9774-87bf71c03589))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "#PWR09") (unit 1)
         )
@@ -571,7 +571,7 @@
     )
     (pin "1" (uuid 07c7bd68-b73a-4fa0-af85-3444e082c9bc))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "#PWR010") (unit 1)
         )
@@ -596,7 +596,7 @@
     )
     (pin "1" (uuid f611801d-abbc-401e-a7bb-3ec4f88e3ab2))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "#PWR011") (unit 1)
         )
@@ -604,16 +604,16 @@
     )
   )
 
-  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 76.073 99.568 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 76.073 99.568 270) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 07c93f9b-8bbe-46cb-9f17-5b3d3cb50910)
-    (property "Reference" "CH13" (at 76.073 92.583 0)
+    (property "Reference" "CH13" (at 83.058 99.568 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "choc_SW_HS" (at 76.073 95.123 0)
+    (property "Value" "choc_SW_HS" (at 80.518 99.568 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 76.073 99.568 0)
+    (property "Footprint" "PCBs:Kailh_socket_PG1350" (at 76.073 99.568 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 76.073 99.568 0)
@@ -625,7 +625,7 @@
     (pin "1" (uuid ec8f9957-70dd-404e-9b44-a31968db3872))
     (pin "2" (uuid e4fbc8b6-a09e-4eda-bf08-2c7aa54a6a80))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "CH13") (unit 1)
         )
@@ -650,7 +650,7 @@
     )
     (pin "1" (uuid ee20a7ae-039d-47b5-af9b-855adc21356d))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "#PWR012") (unit 1)
         )
@@ -658,16 +658,16 @@
     )
   )
 
-  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 85.979 24.765 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 85.979 24.765 270) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 158d83da-ea43-49c3-91bc-068a278ff3bf)
-    (property "Reference" "CH16" (at 85.979 17.78 0)
+    (property "Reference" "CH16" (at 92.964 24.765 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "choc_SW_HS" (at 85.979 20.32 0)
+    (property "Value" "choc_SW_HS" (at 90.424 24.765 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 85.979 24.765 0)
+    (property "Footprint" "PCBs:Kailh_socket_PG1350" (at 85.979 24.765 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 85.979 24.765 0)
@@ -679,7 +679,7 @@
     (pin "1" (uuid 57894d90-3685-428e-a607-9f73d031ca50))
     (pin "2" (uuid 467cb3a3-a06d-4aa8-9a5a-6b1b670ba10e))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "CH16") (unit 1)
         )
@@ -687,16 +687,16 @@
     )
   )
 
-  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 101.854 29.21 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 101.854 29.21 270) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 197b0a72-fd50-473c-a71a-c7beeb27e87b)
-    (property "Reference" "CH19" (at 101.854 22.225 0)
+    (property "Reference" "CH19" (at 108.839 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "choc_SW_HS" (at 101.854 24.765 0)
+    (property "Value" "choc_SW_HS" (at 106.299 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 101.854 29.21 0)
+    (property "Footprint" "PCBs:Kailh_socket_PG1350" (at 101.854 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 101.854 29.21 0)
@@ -708,7 +708,7 @@
     (pin "1" (uuid f5920dac-8627-4a17-ab1a-d9f0464fa239))
     (pin "2" (uuid a5df2602-7ca1-440e-8085-522311497a3f))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "CH19") (unit 1)
         )
@@ -737,7 +737,7 @@
           (reference "H3") (unit 1)
         )
       )
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "H7") (unit 1)
         )
@@ -762,7 +762,7 @@
     )
     (pin "1" (uuid 3e19ac5c-9f49-4ada-a262-fbe53eaab53e))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "#PWR04") (unit 1)
         )
@@ -787,7 +787,7 @@
     )
     (pin "1" (uuid e4cead86-9d9b-440b-bc55-7998d66fc651))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "#PWR05") (unit 1)
         )
@@ -795,16 +795,16 @@
     )
   )
 
-  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 87.503 84.074 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 87.503 84.074 270) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 48285245-eb7a-42fa-aa57-d79671b2db0f)
-    (property "Reference" "CH17" (at 87.503 77.089 0)
+    (property "Reference" "CH17" (at 94.488 84.074 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "choc_SW_HS" (at 87.503 79.629 0)
+    (property "Value" "choc_SW_HS" (at 91.948 84.074 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 87.503 84.074 0)
+    (property "Footprint" "PCBs:Kailh_socket_PG1350" (at 87.503 84.074 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 87.503 84.074 0)
@@ -816,7 +816,7 @@
     (pin "1" (uuid 1c40d2a3-2959-46c7-bed6-239ab48990e7))
     (pin "2" (uuid 7f288a74-46f3-40f1-8f1b-3173375703b9))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "CH17") (unit 1)
         )
@@ -824,16 +824,16 @@
     )
   )
 
-  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 71.755 22.225 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 71.755 22.225 270) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 4a9e7d2d-c958-4ee3-b278-824b984d2a16)
-    (property "Reference" "CH10" (at 71.755 15.24 0)
+    (property "Reference" "CH10" (at 78.74 22.225 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "choc_SW_HS" (at 71.755 17.78 0)
+    (property "Value" "choc_SW_HS" (at 76.2 22.225 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 71.755 22.225 0)
+    (property "Footprint" "PCBs:Kailh_socket_PG1350" (at 71.755 22.225 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 71.755 22.225 0)
@@ -845,7 +845,7 @@
     (pin "1" (uuid 212afcd4-f50a-408e-8fc5-152afd406851))
     (pin "2" (uuid 34df6704-9648-41c3-b5ae-115810d0c47b))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "CH10") (unit 1)
         )
@@ -874,7 +874,7 @@
           (reference "H4") (unit 1)
         )
       )
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "H8") (unit 1)
         )
@@ -904,7 +904,7 @@
           (reference "#PWR014") (unit 1)
         )
       )
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "#PWR02") (unit 1)
         )
@@ -929,7 +929,7 @@
     )
     (pin "1" (uuid 094f6f87-69a3-4aed-9b6b-41e727f87bbd))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "#PWR014") (unit 1)
         )
@@ -937,16 +937,16 @@
     )
   )
 
-  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 63.881 27.305 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 63.881 27.305 270) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 6b3c3436-1b59-4bf8-ae44-4e9ff3b4e471)
-    (property "Reference" "CH8" (at 63.881 20.32 0)
+    (property "Reference" "CH8" (at 70.866 27.305 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "choc_SW_HS" (at 63.881 22.86 0)
+    (property "Value" "choc_SW_HS" (at 68.326 27.305 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 63.881 27.305 0)
+    (property "Footprint" "PCBs:Kailh_socket_PG1350" (at 63.881 27.305 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 63.881 27.305 0)
@@ -958,7 +958,7 @@
     (pin "1" (uuid a1dabdfa-6b54-4db6-a059-b5377a1a5946))
     (pin "2" (uuid 1aea0395-852c-43a0-baa9-28bfd4b2346c))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "CH8") (unit 1)
         )
@@ -966,16 +966,16 @@
     )
   )
 
-  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 71.755 41.148 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 71.755 41.148 270) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 71195254-574e-4a51-b882-eb6ee559731b)
-    (property "Reference" "CH11" (at 71.755 34.163 0)
+    (property "Reference" "CH11" (at 78.74 41.148 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "choc_SW_HS" (at 71.755 36.703 0)
+    (property "Value" "choc_SW_HS" (at 76.2 41.148 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 71.755 41.148 0)
+    (property "Footprint" "PCBs:Kailh_socket_PG1350" (at 71.755 41.148 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 71.755 41.148 0)
@@ -987,7 +987,7 @@
     (pin "1" (uuid 43a8ce9d-4cb4-478f-82ef-b610f53e6a90))
     (pin "2" (uuid b4496082-e21b-4d48-8ae5-651fa1b94ffa))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "CH11") (unit 1)
         )
@@ -1012,7 +1012,7 @@
     )
     (pin "1" (uuid b6488332-55cc-48c6-a6bc-a2391b1753ab))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "#PWR03") (unit 1)
         )
@@ -1020,16 +1020,16 @@
     )
   )
 
-  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 79.629 36.068 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 79.629 36.068 270) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 79851689-bd16-4bb3-b89f-0a16e16549fa)
-    (property "Reference" "CH14" (at 79.629 29.083 0)
+    (property "Reference" "CH14" (at 86.614 36.068 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "choc_SW_HS" (at 79.629 31.623 0)
+    (property "Value" "choc_SW_HS" (at 84.074 36.068 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 79.629 36.068 0)
+    (property "Footprint" "PCBs:Kailh_socket_PG1350" (at 79.629 36.068 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 79.629 36.068 0)
@@ -1041,7 +1041,7 @@
     (pin "1" (uuid f2796b00-2275-47a7-b16d-7ba305fdbe8e))
     (pin "2" (uuid 19662d56-e0ae-4d25-98fc-f7e384254fa5))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "CH14") (unit 1)
         )
@@ -1066,7 +1066,7 @@
     )
     (pin "1" (uuid 2c298c2c-c883-4ad6-8a3f-b367d86c61fe))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "#PWR015") (unit 1)
         )
@@ -1113,7 +1113,7 @@
           (reference "J1") (unit 1)
         )
       )
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "J5") (unit 1)
         )
@@ -1142,7 +1142,7 @@
           (reference "H2") (unit 1)
         )
       )
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "H6") (unit 1)
         )
@@ -1150,16 +1150,16 @@
     )
   )
 
-  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 70.866 72.644 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 70.866 72.644 270) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 898f2dd3-f1a8-4cc0-b640-f5916e06f4b8)
-    (property "Reference" "CH9" (at 70.866 65.659 0)
+    (property "Reference" "CH9" (at 77.851 72.644 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "choc_SW_HS" (at 70.866 68.199 0)
+    (property "Value" "choc_SW_HS" (at 75.311 72.644 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 70.866 72.644 0)
+    (property "Footprint" "PCBs:Kailh_socket_PG1350" (at 70.866 72.644 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 70.866 72.644 0)
@@ -1171,7 +1171,7 @@
     (pin "1" (uuid 20b34904-ccfc-471f-821c-f27e889d30a5))
     (pin "2" (uuid cc3f6230-e89b-429e-b67c-6fe501165333))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "CH9") (unit 1)
         )
@@ -1179,16 +1179,16 @@
     )
   )
 
-  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 74.041 86.36 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 74.041 86.36 270) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 9929c795-00f3-4e7a-a64b-c7ea77133fdb)
-    (property "Reference" "CH12" (at 74.041 79.375 0)
+    (property "Reference" "CH12" (at 81.026 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "choc_SW_HS" (at 74.041 81.915 0)
+    (property "Value" "choc_SW_HS" (at 78.486 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 74.041 86.36 0)
+    (property "Footprint" "PCBs:Kailh_socket_PG1350" (at 74.041 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 74.041 86.36 0)
@@ -1200,7 +1200,7 @@
     (pin "1" (uuid 8d83663f-9c8a-4954-8cec-1b6e0a1cd220))
     (pin "2" (uuid 940a9bde-d75a-4fa2-95be-64f4aed77393))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "CH12") (unit 1)
         )
@@ -1230,7 +1230,7 @@
           (reference "#PWR015") (unit 1)
         )
       )
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "#PWR01") (unit 1)
         )
@@ -1255,7 +1255,7 @@
     )
     (pin "1" (uuid 7987cc11-a12a-47a3-a75e-68eec4a985f6))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "#PWR08") (unit 1)
         )
@@ -1263,16 +1263,16 @@
     )
   )
 
-  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 93.853 38.608 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 93.853 38.608 270) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid a9bb64cd-ccc1-41ea-b18c-10fa55525843)
-    (property "Reference" "CH18" (at 93.853 31.623 0)
+    (property "Reference" "CH18" (at 100.838 38.608 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "choc_SW_HS" (at 93.853 34.163 0)
+    (property "Value" "choc_SW_HS" (at 98.298 38.608 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 93.853 38.608 0)
+    (property "Footprint" "PCBs:Kailh_socket_PG1350" (at 93.853 38.608 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 93.853 38.608 0)
@@ -1284,7 +1284,7 @@
     (pin "1" (uuid b311dcbb-18ab-4236-b950-1138072f464c))
     (pin "2" (uuid 393c5f3d-359a-4499-8081-149899c62777))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "CH18") (unit 1)
         )
@@ -1313,7 +1313,7 @@
           (reference "H1") (unit 1)
         )
       )
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "H5") (unit 1)
         )
@@ -1321,16 +1321,16 @@
     )
   )
 
-  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 109.728 43.053 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 109.728 43.053 270) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid d08e41e4-bdf2-4d24-96bf-e73cb5799b9b)
-    (property "Reference" "CH20" (at 109.728 36.068 0)
+    (property "Reference" "CH20" (at 116.713 43.053 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "choc_SW_HS" (at 109.728 38.608 0)
+    (property "Value" "choc_SW_HS" (at 114.173 43.053 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 109.728 43.053 0)
+    (property "Footprint" "PCBs:Kailh_socket_PG1350" (at 109.728 43.053 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 109.728 43.053 0)
@@ -1342,7 +1342,7 @@
     (pin "1" (uuid 67bcf4e3-7d44-409f-8834-6baeb448895c))
     (pin "2" (uuid a739756e-20f0-4f6c-87a6-8ae331b64722))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "CH20") (unit 1)
         )
@@ -1367,7 +1367,7 @@
     )
     (pin "1" (uuid 4e4cbf95-d099-42e4-ac69-2927fbb9f854))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "#PWR013") (unit 1)
         )
@@ -1392,7 +1392,7 @@
     )
     (pin "1" (uuid fcd751c3-d17e-4432-8a6f-a2a0aa476f23))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "#PWR06") (unit 1)
         )
@@ -1417,7 +1417,7 @@
     )
     (pin "1" (uuid faa31685-1b9a-4ef1-84bf-7ca79afadb41))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "#PWR07") (unit 1)
         )
@@ -1425,16 +1425,16 @@
     )
   )
 
-  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 83.439 69.342 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "PCM_marbastlib-choc:choc_SW_HS") (at 83.439 69.342 270) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid e4dfa24d-436b-4277-a7ab-468eb30bf82a)
-    (property "Reference" "CH15" (at 83.439 62.357 0)
+    (property "Reference" "CH15" (at 90.424 69.342 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "choc_SW_HS" (at 83.439 64.897 0)
+    (property "Value" "choc_SW_HS" (at 87.884 69.342 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "PCM_marbastlib-choc:SW_choc_v1_HS_1u" (at 83.439 69.342 0)
+    (property "Footprint" "PCBs:Kailh_socket_PG1350" (at 83.439 69.342 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 83.439 69.342 0)
@@ -1446,7 +1446,7 @@
     (pin "1" (uuid bfa3ad8d-5b0a-4762-b80d-424cb43c5ba5))
     (pin "2" (uuid 87174aa6-81d3-4c7c-a76f-006b854f3718))
     (instances
-      (project "Right Hand"
+      (project "Right Hand Swift"
         (path "/97ca623a-d248-42d7-a24f-eb3e5166da74"
           (reference "CH15") (unit 1)
         )
