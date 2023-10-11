@@ -3083,6 +3083,13 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
+  (global_label "DATA" (shape input) (at 269.24 103.886 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 33db6306-f232-49c1-8b26-13f20a1ba9de)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 261.84 103.886 0)
+      (effects (font (size 1.27 1.27)) (justify right) hide)
+    )
+  )
   (global_label "3vCable" (shape input) (at 46.736 247.65 270) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 35a4b855-fb45-4894-affd-a23cd9703b33)
@@ -3090,10 +3097,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "DATA" (shape input) (at 270.002 153.289 180) (fields_autoplaced)
+  (global_label "DATA" (shape input) (at 270.002 155.829 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 37f63f89-711a-4566-a526-05871950ac1f)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 262.6814 153.289 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 262.6814 155.829 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -3101,13 +3108,6 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 3a380b87-8af9-43fd-87ed-8b543a2fe82d)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 243.967 291.8429 90)
-      (effects (font (size 1.27 1.27)) (justify right) hide)
-    )
-  )
-  (global_label "DATA" (shape input) (at 269.24 106.426 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right))
-    (uuid 3bb70d15-fd37-47ec-8764-faec72c27016)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 261.9194 106.426 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -3158,13 +3158,6 @@
     (uuid 4b559aa7-05a4-4894-8549-4e07ebea3634)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 212.3045 153.543 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-  )
-  (global_label "D+" (shape input) (at 269.24 111.506 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right))
-    (uuid 4e04d437-7680-479f-a438-ac08b6b4d062)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 263.4918 111.506 0)
-      (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
   (global_label "R" (shape input) (at 72.644 121.666 0) (fields_autoplaced)
@@ -3223,10 +3216,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "D-" (shape input) (at 270.002 150.749 180) (fields_autoplaced)
+  (global_label "D-" (shape input) (at 270.002 148.209 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 6939bdcf-51da-4fd8-a992-4eebeac3ce88)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 264.2538 150.749 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 264.2538 148.209 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -3270,6 +3263,13 @@
     (uuid 777b5ff8-ca36-4078-b328-00a1531c05b2)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 80.5604 49.1966 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
+  (global_label "D+" (shape input) (at 269.24 114.046 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 79f42070-6c9e-4b44-a714-737f42fe758c)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 263.4124 114.046 0)
+      (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
   (global_label "C_DN" (shape input) (at 195.453 234.061 180) (fields_autoplaced)
@@ -3395,13 +3395,6 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 8ede6d8f-b748-4534-9992-722a628598f5)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 238.3063 45.7676 0)
-      (effects (font (size 1.27 1.27)) (justify right) hide)
-    )
-  )
-  (global_label "D-" (shape input) (at 269.24 108.966 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right))
-    (uuid 8f82fbcf-e165-4ad8-9e7f-d29a9cd17cd4)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 263.4918 108.966 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -3549,6 +3542,13 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid be67738f-5c23-4a8f-9828-a2f2d3b3ae17)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 111.887 46.2551 90)
+      (effects (font (size 1.27 1.27)) (justify right) hide)
+    )
+  )
+  (global_label "D-" (shape input) (at 269.24 111.506 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid bee0a735-ddf1-4825-9d82-2f0578e83756)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 263.4124 111.506 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -3720,10 +3720,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "D+" (shape input) (at 270.002 148.209 180) (fields_autoplaced)
+  (global_label "D+" (shape input) (at 270.002 145.669 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid efc92299-ca04-4ac2-9c9e-989b9596c1b1)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 264.2538 148.209 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 264.2538 145.669 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -3981,46 +3981,6 @@
     )
   )
 
-  (symbol (lib_id "power:+3.3V") (at 269.24 103.886 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 0c1875c3-b70f-4aef-a9fa-9732090cdfc6)
-    (property "Reference" "#PWR06" (at 273.05 103.886 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+3.3V" (at 265.938 103.886 90)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "" (at 269.24 103.886 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 269.24 103.886 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 20af3c2d-47a7-40c8-a716-5b5b178827b7))
-    (instances
-      (project "OpenRectangle"
-        (path "/0ee7bd02-e26d-4978-ae8c-675a718c78c0"
-          (reference "#PWR06") (unit 1)
-        )
-      )
-      (project "OpenRectangleTemplate"
-        (path "/798975c2-d104-4b51-bc9d-eb81d8f1bd39"
-          (reference "#PWR09") (unit 1)
-        )
-      )
-      (project "MainBoard"
-        (path "/7bfb23e1-799c-4e40-8935-884d70092db8"
-          (reference "#PWR035") (unit 1)
-        )
-      )
-      (project "Panelized Board"
-        (path "/cc8c27d2-c70f-4cdf-9afe-ee5b412f22ab"
-          (reference "#PWR035") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "power:+3V3") (at 27.4574 94.996 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0d620154-1d37-47c8-a00a-4f3c3f73664a)
@@ -4254,19 +4214,19 @@
     )
   )
 
-  (symbol (lib_id "power:+3.3V") (at 270.002 155.829 90) (unit 1)
+  (symbol (lib_id "power:+3.3V") (at 270.002 153.289 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 18964ed0-4ab7-418e-bf5e-5e5c0881d121)
-    (property "Reference" "#PWR06" (at 273.812 155.829 0)
+    (property "Reference" "#PWR06" (at 273.812 153.289 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+3.3V" (at 266.7 155.829 90)
+    (property "Value" "+3.3V" (at 266.7 153.289 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 270.002 155.829 0)
+    (property "Footprint" "" (at 270.002 153.289 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 270.002 155.829 0)
+    (property "Datasheet" "" (at 270.002 153.289 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 19dee18f-7626-4a7b-b8e4-f090cf23bfd8))
@@ -4631,7 +4591,7 @@
 
   (symbol (lib_name "GND_1") (lib_id "power:GND") (at 269.24 116.586 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
-    (uuid 2fd62548-1de9-4bfa-8cb9-707db6121b09)
+    (uuid 2efa2405-4d3b-4684-ba7e-7aca92da40b2)
     (property "Reference" "#PWR02" (at 262.89 116.586 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4644,7 +4604,7 @@
     (property "Datasheet" "" (at 269.24 116.586 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c5f7106a-6c65-477e-9c50-2aa56d5aa0d4))
+    (pin "1" (uuid 2d559c0c-e252-453d-895a-25698e4cb077))
     (instances
       (project "Rana Tadpole DB"
         (path "/17abc245-1f5b-40d1-8dcb-dce73bcd73b6"
@@ -4658,7 +4618,7 @@
       )
       (project "MainBoard"
         (path "/7bfb23e1-799c-4e40-8935-884d70092db8"
-          (reference "#PWR037") (unit 1)
+          (reference "#PWR038") (unit 1)
         )
       )
       (project "MiniRectangleDB"
@@ -4673,7 +4633,7 @@
       )
       (project "Panelized Board"
         (path "/cc8c27d2-c70f-4cdf-9afe-ee5b412f22ab"
-          (reference "#PWR037") (unit 1)
+          (reference "#PWR035") (unit 1)
         )
       )
     )
@@ -6650,19 +6610,19 @@
     )
   )
 
-  (symbol (lib_id "power:+5V") (at 270.002 145.669 90) (unit 1)
+  (symbol (lib_id "power:+5V") (at 270.002 150.749 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8be17f25-99ea-40f8-aac1-86dcd3aea5d8)
-    (property "Reference" "#PWR03" (at 273.812 145.669 0)
+    (property "Reference" "#PWR03" (at 273.812 150.749 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+5V" (at 266.446 145.669 90)
+    (property "Value" "+5V" (at 266.446 150.749 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 270.002 145.669 0)
+    (property "Footprint" "" (at 270.002 150.749 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 270.002 145.669 0)
+    (property "Datasheet" "" (at 270.002 150.749 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 5d44c243-3407-4825-85ce-37951be357de))
@@ -8054,61 +8014,6 @@
     )
   )
 
-  (symbol (lib_id "power:+5V") (at 269.24 114.046 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid c5ec4ec4-fc20-4021-b3f4-61031f3f6b50)
-    (property "Reference" "#PWR03" (at 273.05 114.046 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+5V" (at 265.684 114.046 90)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "" (at 269.24 114.046 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 269.24 114.046 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 7024abfe-cdde-4afc-ab8b-657619e9c6b0))
-    (instances
-      (project "OpenRectangle"
-        (path "/0ee7bd02-e26d-4978-ae8c-675a718c78c0"
-          (reference "#PWR03") (unit 1)
-        )
-      )
-      (project "Rana Tadpole DB"
-        (path "/17abc245-1f5b-40d1-8dcb-dce73bcd73b6"
-          (reference "#PWR03") (unit 1)
-        )
-      )
-      (project "OpenMiniRectangle"
-        (path "/798975c2-d104-4b51-bc9d-eb81d8f1bd39"
-          (reference "#PWR054") (unit 1)
-        )
-      )
-      (project "MainBoard"
-        (path "/7bfb23e1-799c-4e40-8935-884d70092db8"
-          (reference "#PWR036") (unit 1)
-        )
-      )
-      (project "MiniRectangleDB"
-        (path "/9b225c0b-91fc-44a4-b73d-e36704cd827b"
-          (reference "#PWR07") (unit 1)
-        )
-      )
-      (project "Rana Tadpole PCB"
-        (path "/9f19960e-6523-4fd2-955a-272ad4648acf"
-          (reference "#PWR050") (unit 1)
-        )
-      )
-      (project "Panelized Board"
-        (path "/cc8c27d2-c70f-4cdf-9afe-ee5b412f22ab"
-          (reference "#PWR036") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "Mechanical:MountingHole") (at 156.845 223.266 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no)
     (uuid c7554ae9-2abe-4de3-a5e7-cde3fdf81388)
@@ -8311,6 +8216,61 @@
       (project "Panelized Board"
         (path "/cc8c27d2-c70f-4cdf-9afe-ee5b412f22ab"
           (reference "#PWR032") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:+5V") (at 269.24 108.966 90) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid ca586276-7894-4550-b4d1-45a2944f08e2)
+    (property "Reference" "#PWR03" (at 273.05 108.966 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+5V" (at 265.684 108.966 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "" (at 269.24 108.966 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 269.24 108.966 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 942bd4c3-5772-4e4d-b7fe-40b1f70609f7))
+    (instances
+      (project "OpenRectangle"
+        (path "/0ee7bd02-e26d-4978-ae8c-675a718c78c0"
+          (reference "#PWR03") (unit 1)
+        )
+      )
+      (project "Rana Tadpole DB"
+        (path "/17abc245-1f5b-40d1-8dcb-dce73bcd73b6"
+          (reference "#PWR03") (unit 1)
+        )
+      )
+      (project "OpenMiniRectangle"
+        (path "/798975c2-d104-4b51-bc9d-eb81d8f1bd39"
+          (reference "#PWR054") (unit 1)
+        )
+      )
+      (project "MainBoard"
+        (path "/7bfb23e1-799c-4e40-8935-884d70092db8"
+          (reference "#PWR039") (unit 1)
+        )
+      )
+      (project "MiniRectangleDB"
+        (path "/9b225c0b-91fc-44a4-b73d-e36704cd827b"
+          (reference "#PWR07") (unit 1)
+        )
+      )
+      (project "Rana Tadpole PCB"
+        (path "/9f19960e-6523-4fd2-955a-272ad4648acf"
+          (reference "#PWR050") (unit 1)
+        )
+      )
+      (project "Panelized Board"
+        (path "/cc8c27d2-c70f-4cdf-9afe-ee5b412f22ab"
+          (reference "#PWR036") (unit 1)
         )
       )
     )
@@ -8658,6 +8618,46 @@
       (project "Panelized Board"
         (path "/cc8c27d2-c70f-4cdf-9afe-ee5b412f22ab"
           (reference "R9") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:+3.3V") (at 269.24 106.426 90) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid d6640637-6a27-4812-be44-ebc32b2a9f06)
+    (property "Reference" "#PWR06" (at 273.05 106.426 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+3.3V" (at 265.938 106.426 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "" (at 269.24 106.426 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 269.24 106.426 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 615701ec-80cd-4cb0-84ab-61d9e775b973))
+    (instances
+      (project "OpenRectangle"
+        (path "/0ee7bd02-e26d-4978-ae8c-675a718c78c0"
+          (reference "#PWR06") (unit 1)
+        )
+      )
+      (project "OpenRectangleTemplate"
+        (path "/798975c2-d104-4b51-bc9d-eb81d8f1bd39"
+          (reference "#PWR09") (unit 1)
+        )
+      )
+      (project "MainBoard"
+        (path "/7bfb23e1-799c-4e40-8935-884d70092db8"
+          (reference "#PWR040") (unit 1)
+        )
+      )
+      (project "Panelized Board"
+        (path "/cc8c27d2-c70f-4cdf-9afe-ee5b412f22ab"
+          (reference "#PWR037") (unit 1)
         )
       )
     )
