@@ -30,7 +30,7 @@ While most of these files are universal and can be used at any fab house, **JLCP
 
 Bill of Materials
 -
-Per GRAM Slim, you will need (some files can be made using this repository, but I will link to places to purchase them if you would like to avoid MOQs)
+Per GRAM PRI$M, you will need (some files can be made using this repository, but I will link to places to purchase them if you would like to avoid MOQs)
 - 1 x PRI$M PCB set *(either panelized, or individual PCBs)*
 - 1 x set of PRI$M Aluminum Panels
 - 20 x [Kailh Choc V1 switches](https://www.moergo.com/products/kailh-choc-v1-key-switches-red-brown-white-pro-red-20-pack?variant=45328736780561) (Red, Red Pro, and Whites are all great choices)
@@ -103,7 +103,9 @@ Here you can add the **GRAM Slim Bottom** Zip file, and it will copy all your se
 
 The Frame
 -
-The frame file is pretty self explanatory. Just go into JLC's 3D printing section, drop the STL file in, and choose your material. I recommend black Resin, but LEDO 6060 is a great, low cost alternative. The only material I recommend against is the textured Nylon options, as the tolerances between the frame and panels are extremely tight, and the texture could interfere with that. make sure the surface finish is set to *sanded*.
+The frame file is pretty self explanatory. Just go into JLC's 3D printing section, drop the STL file in, and choose your material. I recommend black Resin, but LEDO 6060 is a great, low cost alternative. The only material I recommend against is the textured Nylon options, as the tolerances between the frame and panels are extremely tight, and the texture could interfere with that. make sure the surface finish is set to *sanded*. 
+
+The website will flag some possible errors (Inverted normals, Multi-shells, Possible noise shells) but if you have not modified the .stl file you are good to go. It is also possible that their support contact you about a risk of deformation given the geometry of the workpiece but it is normal and you should reply to the email that you accept the risks.
 
 
 ![image](https://github.com/GrammyMoney/GRAM-SLIM/assets/126632196/7fee3cdb-1453-4f1a-8c41-a377b9aa191a)
