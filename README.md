@@ -38,7 +38,7 @@ Per GRAM PRI$M, you will need (some files can be made using this repository, but
 - 20 x Choc v1 keycaps *(I recommend MBK profile)*
 - 1 x GRAM PRI$M Frame
 - 7 x [M5x0.8 8mm Low-Profile Socket Head Screws](https://www.mcmaster.com/92855A507)
-- 1 x [4" JST 6-pin Socket to Socket cable assembly](https://www.digikey.com/en/products/detail/jst-sales-america-inc/A06SR06SR30K102B/9922194)
+- 1 x [4" JST 6-pin Socket to Socket Reversed cable assembly](https://www.digikey.com/en/products/detail/jst-sales-america-inc/A06SR06SR30K102A/9922193)
 - 1 x [4" 14-pin FPC Cable](https://www.digikey.com/en/products/detail/molex/0152670295/4427171)
 
 *Optional*
